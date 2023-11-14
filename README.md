@@ -1,3 +1,8 @@
+<div style="background-image: url('https://editor.analyticsvidhya.com/uploads/51995anomaly2.png'); background-size: cover; padding: 100px;">
+    <h1 align="center">Your Awesome Project</h1>
+    <p align="center">Description of your project.</p>
+</div>
+
 # Anomaly-detection
 
 Anomaly Detection with Clustering Algorithms ( DBscan, LoF, k-means and Gaussian MM)
