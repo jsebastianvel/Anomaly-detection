@@ -2,8 +2,8 @@
 
 Anomaly Detection with Clustering Algorithms ( DBscan, LoF, k-means and Gaussian MM)
 
-Lab Title:
-"Exploring the Unusual: Anomaly Detection through Cutting-edge Clustering Algorithms"
+## Lab Title:
+## "Exploring the Unusual: Anomaly Detection through Cutting-edge Clustering Algorithms"
 
 Objective:
 Welcome to a fascinating journey into the realm of anomaly detection! The primary aim of this laboratory is not just to scratch the surface but to delve deep into the captivating world of identifying anomalies. Through hands-on experience, participants will gain a profound understanding of anomaly detection concepts and implement various state-of-the-art clustering algorithms.
