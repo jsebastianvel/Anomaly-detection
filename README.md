@@ -1,24 +1,4 @@
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Awesome Project</title>
-</head>
-
-<body>
-    <!-- Add a cool background to your README -->
-    <div style="background-image: url('https://editor.analyticsvidhya.com/uploads/51995anomaly2.png'); background-size: cover; padding: 100px;">
-        <h1 align="center">Your Awesome Project</h1>
-        <p align="center">Description of your project.</p>
-    </div>
-
-    <!-- The rest of your README content goes here -->
-</body>
-
-</html>
 
 
 # Anomaly-detection
